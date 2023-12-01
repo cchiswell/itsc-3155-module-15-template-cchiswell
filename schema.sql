@@ -5,3 +5,4 @@ CREATE TABLE IF NOT EXISTS movie (
     rating   INT          NOT NULL,
     PRIMARY KEY (movie_id)
 );
+
